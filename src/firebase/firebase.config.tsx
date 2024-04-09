@@ -5,13 +5,13 @@ import { getFirestore,  collection, addDoc } from "firebase/firestore";
 import { getStorage, ref } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCNsjHi0kMued3tPBGGXpQXtvzkRDyMDbQ",
-  authDomain: "react-auth-ff308.firebaseapp.com",
-  projectId: "react-auth-ff308",
-  storageBucket: "react-auth-ff308.appspot.com",
-  messagingSenderId: "866111043178",
-  appId: "1:866111043178:web:5ea0808ac65765cb3cbc13",
-  measurementId: "G-T6VLE44RMZ"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
